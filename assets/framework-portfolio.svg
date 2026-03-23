@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" fill="none">
+  <g opacity=".28" stroke="#F8FAFC" stroke-opacity=".16">
+    <path d="M34 62H486"/>
+    <path d="M34 132H486"/>
+    <path d="M34 202H486"/>
+    <path d="M34 272H486"/>
+  </g>
+  <g transform="translate(162 182)">
+    <circle r="92" stroke="#173155" stroke-width="28"/>
+    <g transform="rotate(-90)">
+      <circle r="92" stroke="#DCCAA7" stroke-width="28" stroke-linecap="round" stroke-dasharray="231 347"/>
+      <circle r="92" stroke="#6E93D6" stroke-width="28" stroke-linecap="round" stroke-dasharray="202 376" stroke-dashoffset="-242"/>
+      <circle r="92" stroke="#8D7650" stroke-width="28" stroke-linecap="round" stroke-dasharray="145 433" stroke-dashoffset="-454"/>
+    </g>
+    <circle r="62" fill="#09172E"/>
+    <text x="0" y="-4" fill="#F8FAFC" font-family="Avenir Next, Segoe UI, sans-serif" font-size="34" font-weight="600" text-anchor="middle">3</text>
+    <text x="0" y="22" fill="#C6D0E1" font-family="Avenir Next, Segoe UI, sans-serif" font-size="12" letter-spacing="3" text-anchor="middle">SECTORS</text>
+  </g>
+  <g font-family="Avenir Next, Segoe UI, sans-serif">
+    <text x="320" y="74" fill="#C6D0E1" font-size="12" letter-spacing="3">WORKING ALLOCATION</text>
+    <rect x="300" y="96" width="172" height="54" rx="16" fill="#0D1D38" stroke="#FFFFFF" stroke-opacity=".08"/>
+    <rect x="300" y="162" width="172" height="54" rx="16" fill="#0D1D38" stroke="#FFFFFF" stroke-opacity=".08"/>
+    <rect x="300" y="228" width="172" height="54" rx="16" fill="#0D1D38" stroke="#FFFFFF" stroke-opacity=".08"/>
+    <circle cx="328" cy="123" r="8" fill="#DCCAA7"/>
+    <circle cx="328" cy="189" r="8" fill="#6E93D6"/>
+    <circle cx="328" cy="255" r="8" fill="#8D7650"/>
+    <text x="348" y="118" fill="#F8FAFC" font-size="26" font-weight="600">40%</text>
+    <text x="348" y="136" fill="#C6D0E1" font-size="12" letter-spacing="2">HEALTHCARE</text>
+    <text x="348" y="184" fill="#F8FAFC" font-size="26" font-weight="600">35%</text>
+    <text x="348" y="202" fill="#C6D0E1" font-size="12" letter-spacing="2">TMT</text>
+    <text x="348" y="250" fill="#F8FAFC" font-size="26" font-weight="600">25%</text>
+    <text x="348" y="268" fill="#C6D0E1" font-size="12" letter-spacing="2">FIG</text>
+    <text x="50" y="326" fill="#B59765" font-size="12" letter-spacing="3">WORKING WEIGHTS FROM CURRENT STRUCTURE PAPER</text>
+  </g>
+</svg>
